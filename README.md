@@ -1,47 +1,32 @@
 ## Hi there 👋
 
-## You've stumbled upon David Elvis's GitHub profile!
+## You've stumbled upon Binyam Sisay's GitHub profile!
 
 ### Currently, I am...
 #### Education
-- 📖 Studied at **Jomo Kenyatta University** for my **Bachelors in Applied Mathematics**
+- 📖 Studied at **Addis Ababa Insitute Of Technology** for my **Bachelors in Electrical And Computer Engineering**
 - 🌱 **Completed / Current Courses**: 
-  - Deep learning mainly Reinforcement Learning MIT Course
-  - Reinforcement Learning in NLP
-  - Knowledge Based Artifical Intelligence
-  - Machine Learning for Trading
-  - Data science
+  - 10Acadamy **Junior Machine learning Engineer**
+  - 
 #### Location
-- 🏔 Livng in Nairobi, Kenya
+- 🏔 Livng in Addis Ababa, Ethiopia
 #### Development
-- 🧠 Deep research on Reinforcement Learning in different domains to help me in building framework for optimization and fast delivery of projects in [Kunumi](https://www.kunumi.com/).
+- 🧠 Deep research on Machine learning engineering and am currently taking a course from 10Acadamy(https://www.10academy.org/).
 
 - 🧠 Developing libraries and contributing to projects that help in Knowledge Based AI development / etc
-- 🧠 Building a project that will enhance my skills on Docker and kurbenetes, CI/CD and Testing
-- 🧠 Deep diving Into Generative Adversarial Networks(GANS), and building GAN models
-- 🧠 Gaining exposure to various TTS algorithms which include ([FastSpeech2], [MelGAN], [MB-MelGAN], [ParallelWaveGAN], etc), also speech to video synthesis models. All of which will help assist me in my current Machine Learning Engineering experience at [Traits.ai](https://traits.ai).
+- 🧠 Building a project that will enhance my skills on Docker and DVC, CI/CD and Testing
 
-[![Top Langs](https://github.com/Davidelvis/github-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github.com/Bina-man/bina-waffle/blob/master/generated/languages.svg)
 
-![David's GitHub Stats](https://github.com/Davidelvis/github-stats/blob/master/generated/overview.svg)
 
-<!--
-**Davidelvis/Davidelvos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Feel free to hoop in and dig more about me
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Connect with me:
 
-[<img align="left" alt="Davidelvis website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="David's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 <br />
 
-[website]: https://davidelvis.github.io/david/
-[linkedin]: https://www.linkedin.com/in/david-elvis-a80336183/
+[linkedin]: https://github.com/Bina-man
