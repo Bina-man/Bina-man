@@ -60,7 +60,9 @@
 
 - ⚡ Feel free to hoop in and dig more about me
 
-### Connect with me:
+### Connect with me: 
+    **Linkedin**: 
+ 
 
 [<img align="left" alt="David's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
