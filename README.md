@@ -3,12 +3,6 @@
 ## You've stumbled upon Binyam Sisay's GitHub profile!
 
 ### Machine Learning Engineer. 
-#### Education
-- 📖 Studied at **Addis Ababa Insitute Of Technology** for my **Bachelors in Electrical And Computer Engineering**
-- 🌱 **Certified**: 
-  - **Machine learning Engineer And Data Engineering** 10Acadamy 
-  - **Machine Learning** Coursera
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -48,10 +42,18 @@
 #### Location
 - 🏔 Livng in Addis Ababa, Ethiopia
 #### Development
-- 🧠 Deep research on Machine learning engineering and am currently taking a course from 10Acadamy(https://www.10academy.org/).
+- 🧠 Deep research on Machine learning engineering certified from 10Acadamy(https://www.10academy.org/).
 
 - 🧠 Developing libraries and contributing to projects that help in Knowledge Based AI development / etc
 - 🧠 Building a project that will enhance my skills on Docker and DVC, CI/CD and Testing
+
+
+#### Education
+- 📖 Studied at **Addis Ababa Insitute Of Technology** for my **Bachelors in Electrical And Computer Engineering**
+- 🌱 **Certified**: 
+  - **Machine learning Engineer And Data Engineering** 10Acadamy 
+  - **Machine Learning** Coursera
+
 
 [![Top Langs](https://github.com/Bina-man/bina-waffle/blob/master/generated/languages.svg)
 
