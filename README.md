@@ -5,8 +5,9 @@
 ### Machine Learning Engineer. 
 #### Education
 - 📖 Studied at **Addis Ababa Insitute Of Technology** for my **Bachelors in Electrical And Computer Engineering**
-- 🌱 **Completed / Current Courses**: 
-  - 10Acadamy **Junior Machine learning Engineer**
+- 🌱 **Certified**: 
+  - **Machine learning Engineer And Data Engineering** 10Acadamy 
+  - **Machine Learning** Coursera
 
 ### Languages and Tools:
 
