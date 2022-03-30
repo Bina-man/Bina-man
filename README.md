@@ -2,7 +2,7 @@
 
 ## You've stumbled upon Binyam Sisay's GitHub profile!
 
-### Currently, I am a Machine Learning Engineer. 
+### Machine Learning Engineer. 
 #### Education
 - 📖 Studied at **Addis Ababa Insitute Of Technology** for my **Bachelors in Electrical And Computer Engineering**
 - 🌱 **Completed / Current Courses**: 
