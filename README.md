@@ -42,10 +42,10 @@
 #### Location
 - 🏔 Livng in Addis Ababa, Ethiopia
 #### Development
-- 🧠 Deep research on Machine learning engineering certified from 10Acadamy(https://www.10academy.org/).
+- Machine learning engineering certified from 10Acadamy(https://www.10academy.org/).
 
-- 🧠 Developing libraries and contributing to projects that help in Knowledge Based AI development / etc
-- 🧠 Building a project that will enhance my skills on Docker and DVC, CI/CD and Testing
+- Developing libraries and contributing to projects that help in Knowledge Based AI development / etc
+- Building a project that will enhance my skills on Docker and DVC, CI/CD and Testing
 
 
 #### Education
