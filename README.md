@@ -1,3 +1,13 @@
+<p align="left">
+  <a href="https://www.linkedin.com/in/bina-man/"><img src="https://img.shields.io/badge/-Binyam%20Atnafu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:binasisayet8790@gmail.com"><img src="https://img.shields.io/badge/-binasisayet8790@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@binasisayet8790"><img src="https://img.shields.io/badge/-Medium-00AB6C?style=flat&logo=Medium&logoColor=white"/></a>
+  <a href="https://sites.google.com/view/binyam"><img src="https://img.shields.io/badge/-Google%20Sites-4285F4?style=flat&logo=Google&logoColor=white"/></a>
+  <a href="https://t.me/incherB"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/binasisayet/"><img src="https://img.shields.io/badge/-LeetCode-F9C44D?style=flat&logo=LeetCode&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/bina3csis"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/></a>
+</p>
+
 ### Hey everyone 👋🏾, I'm Binyam
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-dev.gif" />
@@ -34,7 +44,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/eandualem?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Bina-man?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/>
   </a>
 </p>
@@ -54,6 +64,7 @@
 </p>
 
 ## Tech Stack
+
 #### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
@@ -66,7 +77,7 @@
 #### Frameworks/Libraries
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
-![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
+![Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=Apache%20Spark)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
@@ -87,12 +98,37 @@
 ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-05122A?style=flat&logo=Cloud%20Firestore)&nbsp;
 
 #### Tools
+#### Tools
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)&nbsp;
-![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow)&nbsp;
 ![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
-![Travis%20CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
+![Travis CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=Apache%20Kafka)&nbsp;
+![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=Snowflake)&nbsp;
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-05122A?style=flat&logo=AmazonS3)&nbsp;
+![Fivetran](https://img.shields.io/badge/-Fivetran-05122A?style=flat&logo=Fivetran)&nbsp;
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-05122A?style=flat&logo=AWSGlue)&nbsp;
+![Amazon Athena](https://img.shields.io/badge/-Amazon%20Athena-05122A?style=flat&logo=AmazonAthena)&nbsp;
+![Amazon CloudWatch](https://img.shields.io/badge/-Amazon%20CloudWatch-05122A?style=flat&logo=AmazonCloudWatch)&nbsp;
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-05122A?style=flat&logo=AWSLambda)&nbsp;
+![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-05122A?style=flat&logo=AmazonRDS)&nbsp;
+![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-05122A?style=flat&logo=AmazonRedshift)&nbsp;
+![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-05122A?style=flat&logo=AmazonDynamoDB)&nbsp;
+![AWS Step Functions](https://img.shields.io/badge/-AWS%20Step%20Functions-05122A?style=flat&logo=AWSStepFunctions)&nbsp;
+![Amazon Kinesis](https://img.shields.io/badge/-Amazon%20Kinesis-05122A?style=flat&logo=AmazonKinesis)&nbsp;
+![Amazon EMR](https://img.shields.io/badge/-Amazon%20EMR-05122A?style=flat&logo=AmazonEMR)&nbsp;
+![AWS IoT](https://img.shields.io/badge/-AWS%20IoT-05122A?style=flat&logo=AWSIoT)&nbsp;
+![Amazon SNS](https://img.shields.io/badge/-Amazon%20SNS-05122A?style=flat&logo=AmazonSNS)&nbsp;
+![Amazon SQS](https://img.shields.io/badge/-Amazon%20SQS-05122A?style=flat&logo=AmazonSQS)&nbsp;
+![AWS Batch](https://img.shields.io/badge/-AWS%20Batch-05122A?style=flat&logo=AWSBatch)&nbsp;
+![Amazon SageMaker](https://img.shields.io/badge/-Amazon%20SageMaker-05122A?style=flat&logo=AmazonSageMaker)&nbsp;
+![AWS CodePipeline](https://img.shields.io/badge/-AWS%20CodePipeline-05122A?style=flat&logo=AWSCodePipeline)&nbsp;
+![AWS CodeBuild](https://img.shields.io/badge/-AWS%20CodeBuild-05122A?style=flat&logo=AWSCodeBuild)&nbsp;
+![AWS CodeDeploy](https://img.shields.io/badge/-AWS%20CodeDeploy-05122A?style=flat&logo=AWSCodeDeploy)&nbsp;
+![Amazon API Gateway](https://img.shields.io/badge/-Amazon%20API%20Gateway-05122A?style=flat&logo=AmazonAPIGateway)&nbsp;
+
 
 ## GitHub Analytics
 <p align="center">
@@ -105,10 +141,14 @@
 
 
 
+
 ## Where to find me
 <p align="left">
   <a href="https://www.linkedin.com/in/bina-man/"><img src="https://img.shields.io/badge/-Binyam%20Atnafu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:binasisayet8790@gmail.com"><img src="https://img.shields.io/badge/-binasisayet8790@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@binasisayet8790"><img src="https://img.shields.io/badge/-Medium-00AB6C?style=flat&logo=Medium&logoColor=white"/></a>
+  <a href="https://sites.google.com/view/binyam"><img src="https://img.shields.io/badge/-Google%20Sites-4285F4?style=flat&logo=Google&logoColor=white"/></a>
+  <a href="https://t.me/incherB"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
 
 ## Watch my contribution graph
