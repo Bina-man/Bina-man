@@ -8,7 +8,7 @@
   <a href="https://www.kaggle.com/bina3csis"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/></a>
 </p>
 
-### Hey everyone 👋🏾, I'm Binyam
+### Hey 👋🏾, I'm Binyam
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-dev.gif" />
 <p>I specialize in DataOps and building scalable solutions using AWS and other cloud technologies. With a focus on efficiency and automation, I'm passionate about optimizing data flows and enhancing data infrastructure to support advanced analytics and operational excellence.</p>
