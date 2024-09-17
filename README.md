@@ -139,20 +139,8 @@
   <a href="https://github.com/Bina-man"><img alt="Bina-man's Activity Graph"  width="804px" src="https://github-readme-activity-graph.vercel.app/graph?username=Bina-man&theme=react-dark&hide_border=true" /></a>
 </p>
 
-
-
-
-## Where to find me
-<p align="left">
-  <a href="https://www.linkedin.com/in/bina-man/"><img src="https://img.shields.io/badge/-Binyam%20Atnafu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:binasisayet8790@gmail.com"><img src="https://img.shields.io/badge/-binasisayet8790@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://medium.com/@binasisayet8790"><img src="https://img.shields.io/badge/-Medium-00AB6C?style=flat&logo=Medium&logoColor=white"/></a>
-  <a href="https://sites.google.com/view/binyam"><img src="https://img.shields.io/badge/-Google%20Sites-4285F4?style=flat&logo=Google&logoColor=white"/></a>
-  <a href="https://t.me/incherB"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white"/></a>
-</p>
-
 ## Watch my contribution graph
 ![snake gif](https://github.com/Bina-man/Bina-man/blob/output/snake.svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eandualem" alt="Binyam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bina-man" alt="Binyam" /> </p>
