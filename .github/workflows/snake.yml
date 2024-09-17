@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-      - master  # Change this to the main branch if your default branch is not master
+      - main  # Change this to the main branch if your default branch is not master
 
 jobs:
   generate:
