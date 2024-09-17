@@ -1,31 +1,44 @@
 ### Hey everyone 👋🏾, I'm Binyam
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-dev.gif"  /> DataOps and building scalable solutions using AWS and cloud technologies.
+<img align="right" height="150" src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-dev.gif" />
+<p>I specialize in DataOps and building scalable solutions using AWS and other cloud technologies. With a focus on efficiency and automation, I'm passionate about optimizing data flows and enhancing data infrastructure to support advanced analytics and operational excellence.</p>
 
 
 ## My top open source projects
-<p align="left">
- <a href="https://github.com/Bina-man/Sensor_data_ETL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Sensor_data_ETL&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sensor_data_ETL"></a>
-<!-- Pharmaceutical-Sales-Prediction -->
-<a href="https://github.com/Bina-man/Pharmaceutical-Sales-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Pharmaceutical-Sales-Prediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Pharmaceutical-Sales-Prediction"></a>
 
-<!-- AgriTech_USGS-LIDAR-Challenge -->
-<a href="https://github.com/Bina-man/AgriTech_USGS-LIDAR-Challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=AgriTech_USGS-LIDAR-Challenge&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="AgriTech_USGS-LIDAR-Challenge"></a>
+<p align="center">
+  <a href="https://github.com/Bina-man/Sensor_data_ETL">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Sensor_data_ETL&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sensor_data_ETL">
+  </a>
+  <a href="https://github.com/Bina-man/Pharmaceutical-Sales-Prediction">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Pharmaceutical-Sales-Prediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Pharmaceutical-Sales-Prediction">
+  </a>
+</p>
 
-<!-- abtest-mlops -->
-<a href="https://github.com/Bina-man/abtest-mlops"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="abtest-mlops"></a>
+<p align="center">
+  <a href="https://github.com/Bina-man/AgriTech_USGS-LIDAR-Challenge">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=AgriTech_USGS-LIDAR-Challenge&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="AgriTech_USGS-LIDAR-Challenge">
+  </a>
+  <a href="https://github.com/Bina-man/abtest-mlops">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="abtest-mlops">
+  </a>
+</p>
 
-<!-- Smart-Advertisement -->
-<a href="https://github.com/Bina-man/Smart-Advertisement"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Smart-Advertisement&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Smart-Advertisement"></a>
-
-<!-- ToheWaiterApp -->
-<a href="https://github.com/Bina-man/ToheWaiterApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=ToheWaiterApp&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="ToheWaiterApp"></a>
-
+<p align="center">
+  <a href="https://github.com/Bina-man/Smart-Advertisement">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Smart-Advertisement&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Smart-Advertisement">
+  </a>
+  <a href="https://github.com/Bina-man/ToheWaiterApp">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=ToheWaiterApp&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="ToheWaiterApp">
+  </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/eandualem?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
+  <a href="https://github.com/eandualem?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/>
+  </a>
 </p>
+
 
 ## Top projects I've contributed to
 <p align="left">
