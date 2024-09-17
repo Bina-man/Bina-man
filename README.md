@@ -8,10 +8,13 @@
   <a href="https://www.kaggle.com/bina3csis"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/></a>
 </p>
 
-### Hey everyone 👋🏾, I'm Binyam
+### Hey <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20"> , I'm Binyam
+<br>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-dev.gif" />
+<img align="right" height="75"  src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif">
 <p>I specialize in DataOps and building scalable solutions using AWS and other cloud technologies. With a focus on efficiency and automation, I'm passionate about optimizing data flows and enhancing data infrastructure to support advanced analytics and operational excellence.</p>
+ 
+ <br>
 
 ## My top open source projects
 
@@ -90,7 +93,7 @@
 ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-05122A?style=flat&logo=Cloud%20Firestore)&nbsp;
 
 #### Tools
-#### Tools
+
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow)&nbsp;
 ![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC)&nbsp;
@@ -135,4 +138,7 @@
 ![snake gif](https://github.com/Bina-man/Bina-man/blob/output/snake.svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bina-man" alt="Binyam" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bina-man" alt="Profile views" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</p>
+
