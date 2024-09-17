@@ -99,9 +99,7 @@
 </p>
 
 ## Watch my contribution graph
-![Bina-man snake gif](https://github.com/Bina-man/Bina-man/blob/output/github-contribution-grid-snake.svg)
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bina-man" alt="Binyam's profile views" /> </p> -->
+![snake gif](https://github.com/bina-man/bina-man/blob/output/github-contribution-grid-snake.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eandualem" alt="Binyam" /> </p>
