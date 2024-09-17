@@ -13,7 +13,6 @@
 <img align="right" height="150" src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/main/zulfiqar-dev.gif" />
 <p>I specialize in DataOps and building scalable solutions using AWS and other cloud technologies. With a focus on efficiency and automation, I'm passionate about optimizing data flows and enhancing data infrastructure to support advanced analytics and operational excellence.</p>
 
-
 ## My top open source projects
 
 <p align="center">
@@ -23,18 +22,12 @@
   <a href="https://github.com/Bina-man/Pharmaceutical-Sales-Prediction">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Pharmaceutical-Sales-Prediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Pharmaceutical-Sales-Prediction">
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Bina-man/AgriTech_USGS-LIDAR-Challenge">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=AgriTech_USGS-LIDAR-Challenge&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="AgriTech_USGS-LIDAR-Challenge">
   </a>
   <a href="https://github.com/Bina-man/abtest-mlops">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="abtest-mlops">
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Bina-man/Smart-Advertisement">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Smart-Advertisement&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Smart-Advertisement">
   </a>
@@ -49,18 +42,17 @@
   </a>
 </p>
 
-
 ## Top projects I've contributed to
-<p align="left">
-  <!-- Swahili-Speech-To-Text -->
-  <a href="https://github.com/10-Academy-Batch-4-Week-4/Swahili-Speech-To-Text"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=10-Academy-Batch-4-Week-4&repo=Swahili-Speech-To-Text&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Swahili-Speech-To-Text"></a>
-
-  <!-- flutter_equb -->
-  <a href="https://github.com/Bina-man/flutter_equb"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=flutter_equb&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="flutter_equb"></a>
-
-  <!-- Answers-Challenges -->
-  <a href="https://github.com/Bina-man/Answers-Challenges"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Answers-Challenges&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Answers-Challenges"></a>
-
+<p align="center">
+  <a href="https://github.com/10-Academy-Batch-4-Week-4/Swahili-Speech-To-Text">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=10-Academy-Batch-4-Week-4&repo=Swahili-Speech-To-Text&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Swahili-Speech-To-Text">
+  </a>
+  <a href="https://github.com/Bina-man/flutter_equb">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=flutter_equb&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="flutter_equb">
+  </a>
+  <a href="https://github.com/Bina-man/Answers-Challenges">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Answers-Challenges&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Answers-Challenges">
+  </a>
 </p>
 
 ## Tech Stack
