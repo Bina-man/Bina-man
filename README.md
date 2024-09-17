@@ -135,7 +135,7 @@
 </p>
 
 ## Watch my contribution graph
-![snake gif](https://github.com/Bina-man/Bina-man/blob/output/snake.svg)
+![snake gif](https://github.com/Bina-man/Bina-man/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
