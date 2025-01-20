@@ -131,12 +131,7 @@
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Bina-man&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Bina-man&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
-  <a href="https://github.com/Bina-man"><img alt="Bina-man's Activity Graph"  width="804px" src="https://github-readme-activity-graph.vercel.app/graph?username=Bina-man&theme=react-dark&hide_border=true" /></a>
 </p>
-
-## Watch my contribution graph
-![snake gif](https://github.com/Bina-man/Bina-man/blob/output/github-contribution-grid-snake.svg)
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bina-man" alt="Profile views" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
