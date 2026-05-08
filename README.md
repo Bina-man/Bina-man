@@ -1,133 +1,216 @@
 <p align="left">
-  <a href="https://www.linkedin.com/in/bina-man/"><img src="https://img.shields.io/badge/-Binyam%20Atnafu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:binasisayet8790@gmail.com"><img src="https://img.shields.io/badge/-binasisayet8790@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bina-man/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:binasisayet8790@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://medium.com/@binasisayet8790"><img src="https://img.shields.io/badge/-Medium-00AB6C?style=flat&logo=Medium&logoColor=white"/></a>
-  <a href="https://sites.google.com/view/binyam"><img src="https://img.shields.io/badge/-Google%20Sites-4285F4?style=flat&logo=Google&logoColor=white"/></a>
+  <a href="https://sites.google.com/view/binyam"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=Google&logoColor=white"/></a>
   <a href="https://t.me/incherB"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white"/></a>
   <a href="https://leetcode.com/u/binasisayet/"><img src="https://img.shields.io/badge/-LeetCode-F9C44D?style=flat&logo=LeetCode&logoColor=white"/></a>
   <a href="https://www.kaggle.com/bina3csis"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/></a>
 </p>
 
-### Hey <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20"> , I'm Binyam
-<br>
+```
+ ██████╗ ██╗███╗   ██╗██╗   ██╗ █████╗ ███╗   ███╗
+ ██╔══██╗██║████╗  ██║╚██╗ ██╔╝██╔══██╗████╗ ████║
+ ██████╔╝██║██╔██╗ ██║ ╚████╔╝ ███████║██╔████╔██║
+ ██╔══██╗██║██║╚██╗██║  ╚██╔╝  ██╔══██║██║╚██╔╝██║
+ ██████╔╝██║██║ ╚████║   ██║   ██║  ██║██║ ╚═╝ ██║
+ ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
+ Sr. Data Scientist · ML Systems · LLM Engineering · AdTech
+```
 
-<img align="right" height="75"  src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif">
-<p>I specialize in DataOps and building scalable solutions using AWS and other cloud technologies. With a focus on efficiency and automation, I'm passionate about optimizing data flows and enhancing data infrastructure to support advanced analytics and operational excellence.</p>
- 
- <br>
+---
 
-## My top open source projects
+Senior Data Scientist specializing in **end-to-end ML system design** — spanning quantile regression, temporal clustering, causal inference, anomaly detection, and **LLM-powered agent pipelines**. Building production systems where statistical rigor and engineering precision drive measurable outcomes at scale in latency-sensitive AdTech environments.
+
+---
+
+## ⚡ ML Architecture · Pipeline as Neural Net
+
+```
+   EDA              EMBED             MODEL             SERVE           FEEDBACK
+   ───              ─────             ─────             ─────           ────────
+
+  Polars ●─────────● Word2Vec ───────● LightGBM ───────● Lambda ───────● Thompson
+         ╲         ╱╲        ╲      ╱╲          ╲     ╱╲        ╲     ╱
+          ╲       ╱  ╲        ╲    ╱  ╲           ╲   ╱  ╲        ╲   ╱
+   Kafka  ●─────────● BERT    ─────── ● DCN    ───────── ● O(1)   ───● Elasticity
+          ╱       ╲  ╱        ╱    ╲  ╱           ╱   ╲  ╱        ╱   ╲
+         ╱         ╲╱        ╱      ╲╱            ╱    ╲╱         ╱     ╲
+     DSP ●─────────● HMM     ───────● Iso.Forest ───────● RT infer──────● AutoLoop
+
+          └─────────────────────────────────────────────────────────────────┘
+                         hourly recalibration feedback arc
+```
+
+---
+
+## 🤖 LLM Engineering · Agents · Retrieval
+
+### Agentic Pipeline Architecture
+
+```
+┌─────────────┐    ┌──────────────┐    ┌─────────────┐    ┌──────────────┐    ┌──────────────┐
+│  User Query │───▶│   Planner    │───▶│  Tool Use   │───▶│  Reflection  │───▶│   Response   │
+│             │    │  LangGraph   │    │  MCP · RAG  │    │ self-critique│    │   grounded   │
+└─────────────┘    └──────────────┘    └─────────────┘    └──────────────┘    └──────────────┘
+                          │                   │
+                          ▼                   ▼
+                   ┌────────────┐     ┌──────────────┐
+                   │  Memory    │     │  Vector DB   │
+                   │  store     │     │  FAISS·pgvec │
+                   └────────────┘     └──────────────┘
+```
+
+### Retrieval Stack
+
+| Layer | Method | Detail |
+|---|---|---|
+| **Embedding** | Dense + sparse hybrid | BERT, Word2Vec, BM25 fusion |
+| **Indexing** | HNSW approximate NN | 200M+ document scale |
+| **Re-ranking** | Cross-encoder | Precision boost post-retrieval |
+| **Entity linking** | Custom taxonomy mapper | Publisher content → audience graph |
+| **Storage** | FAISS · pgvector | On-prem and cloud portable |
+
+### LLM Routing Strategy
+
+```
+Query complexity assessment
+        │
+        ├──▶ Simple retrieval   ──▶  Haiku  (fast · cheap)
+        ├──▶ Structured output  ──▶  Sonnet (balanced)
+        └──▶ Complex generation ──▶  Opus   (frontier)
+```
+
+**Tools & Frameworks:** `LangGraph` · `LangSmith` · `PydanticAI` · `MCP` · `FAISS` · `pgvector` · `RAG`
+
+---
+
+## 🏭 Production ML Pipeline
+
+```
+01 INGEST        02 FEATURES      03 MODEL         04 SERVE         05 FEEDBACK
+─────────        ───────────      ─────────        ────────         ───────────
+Polars · Kafka   Word2Vec         LightGBM QR      Lambda           Thompson MAB
+Bidstream EDA    HMM states       DCN features     O(1) lookup      Auto-calibrate
+DSP signals      GloVe embeds     Anomaly detect   Real-time        Price elasticity
+     │                │                │                │                │
+     └────────────────┴────────────────┴────────────────┴────────────────┘
+                              Feedback loop (hourly recalibration)
+```
+
+---
+
+## 📊 Impact at a Glance
+
+<div align="center">
+
+| Metric | Result |
+|:---:|:---:|
+| Bid request reduction | **50%+** |
+| GCPM gain | **2×+** |
+| Pipeline speedup | **10×** |
+| Directional decision accuracy | **76%** |
+| Daily revenue lift | **$44–$500** |
+| ID5 integration revenue | **$10K+/day** |
+| Infra cost reduction | **61%** ($7.63 → $3/hr) |
+
+</div>
+
+---
+
+## 🧠 ML Competencies
+
+```
+Bid floor optimization    ████████████████████  95%
+Quantile regression       ███████████████████   92%
+LLM agents · LangGraph    ██████████████████    88%
+Anomaly detection · IVT   ██████████████████    88%
+Embedding · HNSW · RAG    █████████████████     87%
+NLP · BERT · Word2Vec     █████████████████     86%
+Thompson Sampling · MAB   ████████████████      83%
+Hidden Markov Models      ████████████████      82%
+Causal inference          ███████████████       80%
+```
+
+---
+
+## 🔧 Tech Stack
+
+**Core ML**
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![LightGBM](https://img.shields.io/badge/-LightGBM-05122A?style=flat)
+![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)
+
+**LLM & Agents**
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat)
+![LangSmith](https://img.shields.io/badge/-LangSmith-05122A?style=flat)
+![PydanticAI](https://img.shields.io/badge/-PydanticAI-05122A?style=flat)
+![MCP](https://img.shields.io/badge/-MCP-05122A?style=flat)
+![FAISS](https://img.shields.io/badge/-FAISS-05122A?style=flat)
+![pgvector](https://img.shields.io/badge/-pgvector-05122A?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat)
+
+**Data & Infrastructure**
+
+![Polars](https://img.shields.io/badge/-Polars-05122A?style=flat)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=Apache%20Spark)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Apache%20Kafka)
+![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Apache%20Airflow)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
+![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)
+![DBT](https://img.shields.io/badge/-DBT-05122A?style=flat)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
+![Amazon Kinesis](https://img.shields.io/badge/-Kinesis-05122A?style=flat)
+![Amazon SageMaker](https://img.shields.io/badge/-SageMaker-05122A?style=flat)
+![AWS Lambda](https://img.shields.io/badge/-Lambda-05122A?style=flat&logo=AWSLambda)
+![Amazon Redshift](https://img.shields.io/badge/-Redshift-05122A?style=flat)
+
+---
+
+## 🗂 Open Source Projects
 
 <p align="center">
   <a href="https://github.com/Bina-man/Sensor_data_ETL">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Sensor_data_ETL&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Sensor_data_ETL">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Sensor_data_ETL&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false"/>
   </a>
   <a href="https://github.com/Bina-man/Pharmaceutical-Sales-Prediction">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Pharmaceutical-Sales-Prediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Pharmaceutical-Sales-Prediction">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Pharmaceutical-Sales-Prediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false"/>
   </a>
   <a href="https://github.com/Bina-man/AgriTech_USGS-LIDAR-Challenge">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=AgriTech_USGS-LIDAR-Challenge&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="AgriTech_USGS-LIDAR-Challenge">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=AgriTech_USGS-LIDAR-Challenge&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false"/>
   </a>
   <a href="https://github.com/Bina-man/abtest-mlops">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="abtest-mlops">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false"/>
   </a>
   <a href="https://github.com/Bina-man/Smart-Advertisement">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Smart-Advertisement&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Smart-Advertisement">
-  </a>
-  <a href="https://github.com/Bina-man/ToheWaiterApp">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=ToheWaiterApp&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="ToheWaiterApp">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Smart-Advertisement&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Bina-man?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/>
+    <img alt="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
 
-## Top projects I've contributed to
-<p align="center">
-  <a href="https://github.com/10-Academy-Batch-4-Week-4/Swahili-Speech-To-Text">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=10-Academy-Batch-4-Week-4&repo=Swahili-Speech-To-Text&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Swahili-Speech-To-Text">
-  </a>
-  <a href="https://github.com/Bina-man/flutter_equb">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=flutter_equb&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="flutter_equb">
-  </a>
-  <a href="https://github.com/Bina-man/Answers-Challenges">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bina-man&repo=Answers-Challenges&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="Answers-Challenges">
-  </a>
-</p>
+---
 
-## Tech Stack
-
-#### Technologies
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
-
-#### Frameworks/Libraries
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
-![Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=Apache%20Spark)&nbsp;
-![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
-![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=Pytest)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
-
-#### Databases
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-05122A?style=flat&logo=Cloud%20Firestore)&nbsp;
-
-#### Tools
-
-![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)&nbsp;
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow)&nbsp;
-![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
-![Travis CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=Apache%20Kafka)&nbsp;
-![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=Snowflake)&nbsp;
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-05122A?style=flat&logo=AmazonS3)&nbsp;
-![Fivetran](https://img.shields.io/badge/-Fivetran-05122A?style=flat&logo=Fivetran)&nbsp;
-![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-05122A?style=flat&logo=AWSGlue)&nbsp;
-![Amazon Athena](https://img.shields.io/badge/-Amazon%20Athena-05122A?style=flat&logo=AmazonAthena)&nbsp;
-![Amazon CloudWatch](https://img.shields.io/badge/-Amazon%20CloudWatch-05122A?style=flat&logo=AmazonCloudWatch)&nbsp;
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-05122A?style=flat&logo=AWSLambda)&nbsp;
-![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-05122A?style=flat&logo=AmazonRDS)&nbsp;
-![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-05122A?style=flat&logo=AmazonRedshift)&nbsp;
-![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-05122A?style=flat&logo=AmazonDynamoDB)&nbsp;
-![AWS Step Functions](https://img.shields.io/badge/-AWS%20Step%20Functions-05122A?style=flat&logo=AWSStepFunctions)&nbsp;
-![Amazon Kinesis](https://img.shields.io/badge/-Amazon%20Kinesis-05122A?style=flat&logo=AmazonKinesis)&nbsp;
-![Amazon EMR](https://img.shields.io/badge/-Amazon%20EMR-05122A?style=flat&logo=AmazonEMR)&nbsp;
-![AWS IoT](https://img.shields.io/badge/-AWS%20IoT-05122A?style=flat&logo=AWSIoT)&nbsp;
-![Amazon SNS](https://img.shields.io/badge/-Amazon%20SNS-05122A?style=flat&logo=AmazonSNS)&nbsp;
-![Amazon SQS](https://img.shields.io/badge/-Amazon%20SQS-05122A?style=flat&logo=AmazonSQS)&nbsp;
-![AWS Batch](https://img.shields.io/badge/-AWS%20Batch-05122A?style=flat&logo=AWSBatch)&nbsp;
-![Amazon SageMaker](https://img.shields.io/badge/-Amazon%20SageMaker-05122A?style=flat&logo=AmazonSageMaker)&nbsp;
-![AWS CodePipeline](https://img.shields.io/badge/-AWS%20CodePipeline-05122A?style=flat&logo=AWSCodePipeline)&nbsp;
-![AWS CodeBuild](https://img.shields.io/badge/-AWS%20CodeBuild-05122A?style=flat&logo=AWSCodeBuild)&nbsp;
-![AWS CodeDeploy](https://img.shields.io/badge/-AWS%20CodeDeploy-05122A?style=flat&logo=AWSCodeDeploy)&nbsp;
-![Amazon API Gateway](https://img.shields.io/badge/-Amazon%20API%20Gateway-05122A?style=flat&logo=AmazonAPIGateway)&nbsp;
-
-
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bina-man" alt="Profile views" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+  <img src="https://komarev.com/ghpvc/?username=Bina-man&color=378ADD&style=flat" alt="Profile views"/>
 </p>
 
+---
+
+<p align="center">
+  <sub>Addis Ababa, ET · Open to remote · AdTech · ML Systems · LLM Engineering</sub>
+</p>
